@@ -1,1 +1,1 @@
-A Gym environment for GPS Distraction
+A Gym environment for GPS Distraction using Sensor Spoofing
