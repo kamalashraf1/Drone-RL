@@ -1,0 +1,6 @@
+setup.py
+DroneEnv.egg-info/PKG-INFO
+DroneEnv.egg-info/SOURCES.txt
+DroneEnv.egg-info/dependency_links.txt
+DroneEnv.egg-info/requires.txt
+DroneEnv.egg-info/top_level.txt
